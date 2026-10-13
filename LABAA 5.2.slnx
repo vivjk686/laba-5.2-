@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="LABAA 5.2/LABAA 5.2.vcxproj" />
+  <Project Path="LABAA 5.2/LABAA 5.2.vcxproj" Id="1cd73516-d240-4505-91df-4e701c9f1207" />
+  <Project Path="юніт 5.2/юніт 5.2.vcxproj" />
 </Solution>
